@@ -1,0 +1,5 @@
+name = User login Redirect
+core = 7.x
+description = Provides user login redirect by role.
+configure = admin/config/people/user-login-redirect
+dependencies[] = entity
